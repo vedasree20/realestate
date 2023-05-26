@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+   background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(banner.jpg); ;
+   background-position: center;
+   background-size: cover;
+   position: relative;
+}
+.header{
+    color: #fff;
+    text-align: center;
+}
+.facilities-col img{
+    width: 60%;
+    height: 50vh;
+}
